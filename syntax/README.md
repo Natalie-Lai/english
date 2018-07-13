@@ -30,11 +30,17 @@ Block Code
 
 $$x2$$
 
+---
+
 * unordered list
     * 1
         * 2
-        
+
 ---
 
 | head1 | head2 | head3 |
+|-|-|-|
 |item1|item2|item3|
+|item4|item5|item6|
+|item7|item8|item9|
+|item10|item11|item12|

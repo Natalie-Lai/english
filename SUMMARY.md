@@ -1,5 +1,11 @@
 # Summary
 
+## Students' Profiles
+
+* [Tutoring](README.md)
+  * [Cheung](toc-demo/level-1.md)
+* [Whole Class](chapter1.md)
+
 ## Syntax
 
 * [demo](/syntax/README.md)

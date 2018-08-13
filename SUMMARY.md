@@ -12,14 +12,17 @@
 * [Chapter 2](/chapter2/README.md)
 
 
+## 高中全方位教学计划
+
+* [广一普通班水平](README.md)
+* [Whole Class](chapter1.md)
+
+
+
 ## Syntax
 
 * [demo](/syntax/README.md)
 
-## Students' Profiles
-
-* [Tutoring](README.md)
-* [Whole Class](chapter1.md)
 
 
 ## TOC Demo
